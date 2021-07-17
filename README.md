@@ -7,7 +7,10 @@ Using NYC Bike Sharing Data(NYC Citi Bike Data), to see if this bike sharing pro
 ![Users](https://github.com/jamesmoonusa/bikesharing/blob/main/Users.PNG)
 2. Tripduration - There is no signficant difference check out time on 'UNKNOWN' Gender but other Gender has most check out time between 4~6 hours.
 ![Tripduration](https://github.com/jamesmoonusa/bikesharing/blob/main/Tripduration.PNG)
-3. 
+3. Trips - High volume of trips are take between 6~9 AM and 4~7 PM and during weekdays.
+![Trips](https://github.com/jamesmoonusa/bikesharing/blob/main/Trips.PNG)
+4. Location - Most Activities are on Mid & down town of the City. 
+![Location](https://github.com/jamesmoonusa/bikesharing/blob/main/Location.PNG)
 
 
 
@@ -25,5 +28,5 @@ Using NYC Bike Sharing Data(NYC Citi Bike Data), to see if this bike sharing pro
 
 
 
-
-Tableau ULR(https://public.tableau.com/app/profile/james.moon1543/viz/BikeSharing_16264875411920/Story1)
+Tableau Module(https://public.tableau.com/app/profile/james.moon1543/viz/practice_16259450694650/NYCCitiBikeDashboard)
+Tableau Challenge(https://public.tableau.com/app/profile/james.moon1543/viz/BikeSharing_16264875411920/Story1)
