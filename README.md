@@ -28,5 +28,5 @@ Using NYC Bike Sharing Data(NYC Citi Bike Data), to see if this bike sharing pro
 
 
 
-Tableau Module(https://public.tableau.com/app/profile/james.moon1543/viz/practice_16259450694650/NYCCitiBikeDashboard)
+Tableau Module(https://public.tableau.com/app/profile/james.moon1543/viz/practice_16259450694650/NYCCitiBikeDashboard)\
 Tableau Challenge(https://public.tableau.com/app/profile/james.moon1543/viz/BikeSharing_16264875411920/Story1)
