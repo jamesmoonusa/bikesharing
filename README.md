@@ -3,8 +3,9 @@
 Using NYC Bike Sharing Data(NYC Citi Bike Data), to see if this bike sharing program would work in Des Moines. Before analysing the Bike Model sharing program in Des Moines we need to analysing NYC Bike sharing Data first. 
 
 ## Result
-1. User Type ![Users](https://github.com/jamesmoonusa/bikesharing/blob/main/Users.PNG)
-Bases on user type and gender, Subscibed Male has highs demand(usage). 
+1. User Type - Bases on user type and gender, Subscibed Male has highs demand(usage). 
+![Users](https://github.com/jamesmoonusa/bikesharing/blob/main/Users.PNG)
+
 
 
 ### Summary
