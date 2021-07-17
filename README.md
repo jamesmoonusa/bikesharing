@@ -5,7 +5,9 @@ Using NYC Bike Sharing Data(NYC Citi Bike Data), to see if this bike sharing pro
 ## Result
 1. User Type - Bases on user type and gender, Subscibed Male has highs demand(usage). 
 ![Users](https://github.com/jamesmoonusa/bikesharing/blob/main/Users.PNG)
-2. Tripduration - 
+2. Tripduration - There is no signficant difference check out time on 'UNKNOWN' Gender but other Gender has most check out time between 4~6 hours.
+![Tripduration](https://github.com/jamesmoonusa/bikesharing/blob/main/Tripduration.PNG)
+3. 
 
 
 
