@@ -11,8 +11,8 @@ Using NYC Bike Sharing Data(NYC Citi Bike Data), to see if this bike sharing pro
 ![Trips](https://github.com/jamesmoonusa/bikesharing/blob/main/Trips.PNG)
 4. Location - Most Activities are on Mid & down town of the City. 
 ![Location](https://github.com/jamesmoonusa/bikesharing/blob/main/Location.PNG)
-
-
+5. NYC Citi Bike - Dash Board shows average trip duration is slightly increase over time and Gender Break down for users.
+![NYC Citi Bike](https://github.com/jamesmoonusa/bikesharing/blob/main/NYC%20Citi%20Bike.PNG)
 
 ### Summary
 
