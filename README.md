@@ -21,5 +21,5 @@ So to see if this model would work in Des Moines, it would be great idea to see 
 
 
 ### Tableau Link
-Tableau Module(https://public.tableau.com/app/profile/james.moon1543/viz/practice_16259450694650/NYCCitiBikeDashboard)<br>
-Tableau Challenge(https://public.tableau.com/app/profile/james.moon1543/viz/BikeSharing_16264875411920/Story1)
+[Tableau Module Link](https://public.tableau.com/app/profile/james.moon1543/viz/practice_16259450694650/NYCCitiBikeDashboard)<br>
+[Tableau Challenge Link](https://public.tableau.com/app/profile/james.moon1543/viz/BikeSharing_16264875411920/Story1)
