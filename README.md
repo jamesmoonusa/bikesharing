@@ -15,7 +15,7 @@ Using NYC Bike Sharing Data(NYC Citi Bike Data), to see if this bike sharing pro
 ![NYC Citi Bike](https://github.com/jamesmoonusa/bikesharing/blob/main/NYC%20Citi%20Bike.PNG)
 
 ### Summary
-The Results are indicates that bike sharing is used for alternate transportaion for commute, users are almost half and half between Subscribers and Non Subscribers, but there his highly usage for Male customers.<br>
+The Results are indicates that many bike sharing users are used for alternate transportaion for commute. Also bike sharing users are consist of Subscribers and Non Subscribers as half and half. Lastly there is highly usage for Male customers.<br>
 Since NYC is one of heavy traffic city and there are many City workers who commute from out side of NYC, so bike sharing would be a good idea for alternate transportation.
 So to see if this model would work in Des Moines, it would be great idea to see how many commuters and how much traffic in Des Monies has during rush hours. 
 
